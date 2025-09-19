@@ -1,0 +1,6 @@
+name = "send-otp-public"
+version = "0.1.0"
+runtime = "deno"
+
+[functions.send-otp-public]
+verify_jwt = false
